@@ -5,12 +5,12 @@
       <![CDATA[Welcome Purusharth]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-02-25T09:22:58Z" name="Default suite" finished-at="2021-02-25T09:22:59Z" duration-ms="132">
+  <suite started-at="2021-02-25T09:52:52Z" name="Suite" finished-at="2021-02-25T09:52:52Z" duration-ms="128">
     <groups>
     </groups>
-    <test started-at="2021-02-25T09:22:58Z" name="Default test" finished-at="2021-02-25T09:22:59Z" duration-ms="132">
+    <test started-at="2021-02-25T09:52:52Z" name="Test" finished-at="2021-02-25T09:52:52Z" duration-ms="128">
       <class name="com.tail.Trail1">
-        <test-method signature="test()[pri:0, instance:com.tail.Trail1@1e178745]" started-at="2021-02-25T09:22:59Z" name="test" finished-at="2021-02-25T09:22:59Z" duration-ms="37" status="PASS">
+        <test-method signature="test()[pri:0, instance:com.tail.Trail1@2b175c00]" started-at="2021-02-25T09:52:52Z" name="test" finished-at="2021-02-25T09:52:52Z" duration-ms="36" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Welcome Purusharth]]>
@@ -18,6 +18,6 @@
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- com.tail.Trail1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
